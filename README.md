@@ -8,6 +8,9 @@ However, I have placed it here for public reference purposes.
 Feel free to clone what is here, but realize that I am still working on it.  The documentation
 is limited.  That is part of the work in progress.
 
+### Archived
+This repository is now closed. Development has been moved to [bewsoftware-mdj-cli][bmc].
+
 ## Dependencies
 You will also need two other repositories to compile this one:
 
@@ -15,6 +18,6 @@ You will also need two other repositories to compile this one:
 - [Markdownj Core Library][mjc]!
 
 
-
 [bewl]:https://github.com/bewillcott/bewlibs
 [mjc]:https://github.com/bewillcott/markdownj
+[bmc]:https://github.com/bewillcott/bewsoftware-mdj-cli
